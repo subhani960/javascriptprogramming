@@ -3,7 +3,6 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="mavenproject.Sample_Test"/>
       <class name="mavenproject.Datadriven"/>
     </classes>
   </test> <!-- Test -->
